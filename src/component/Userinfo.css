@@ -1,0 +1,59 @@
+/* .all{
+    font-family: 'Roboto', sans-serif;
+}
+.PhoneInputInput,#fax,#fax1,#phno1 {
+    text-align: left;
+    display: block;
+    width: 200px;
+    margin: 10px;
+}
+
+h1{
+    text-align: left;
+    color: rgb(83, 159, 221);
+    font-size: 20px;
+}
+p{
+    color: grey;
+    text-align: left;
+}
+div{
+    display:inline-block
+}
+#title,#email,#title1,#email1{
+    text-align: left;
+    display: block;
+    width: 200px;
+    margin: 10px;
+}
+#first,#last,#first1,#last1{
+    text-align: left;
+    display: block;
+    width: 200px;
+    margin: 10px;
+}
+#phno,#ext,#phno1,#ext1{
+    text-align: left;
+    display: block;
+    width: 200px;
+    margin: 10px;
+}
+
+.cancel{
+    text-align: right;
+    margin: 10px;
+}
+.save{
+    background-color: rgb(83, 159, 221);
+} */
+#form-data{
+    margin: 10px;
+    padding: 20px;
+}
+#form-data>div{
+    margin: 5px;
+}
+#form-data>div>label{
+    display: block;
+    margin: 5px;
+}

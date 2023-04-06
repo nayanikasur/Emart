@@ -1,0 +1,97 @@
+#logo {
+        height: 70px;
+        width: auto;
+}
+.topmostnavline{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.topmostnavline:hover{
+    text-decoration: none;
+    color: black;
+}
+.logsigncart{
+    display: flex;
+    justify-content: right;
+    background-color: black;
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+    border: 5px;
+    border-color: white;
+}
+
+.logsigncart1:hover{
+    text-decoration: none;
+    color: white;
+    border: 1px solid grey;
+}
+
+.logsigncart1{
+    color: white;
+    text-decoration: none;
+}
+.Navbar{
+    text-decoration: none;
+    display: inline;
+    justify-content: center;
+    color: black;
+    margin: 30px;
+    font-weight: bold;
+    
+}
+
+
+/* .body{
+    height:50vh;
+    background-color: rgb(245, 234, 234);
+} 
+
+li{
+    list-style: none;
+}
+
+/* Navlink {
+    text-decoration: none;
+} */
+/* .header{
+    position: relative;
+    padding: 0 2rem;
+}
+
+.navbar{
+    width: 100%;
+    height: 60px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .links{
+    display: flex;
+    gap: 2rem;
+}
+.toggle_btn{
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+    display: none;
+}
+
+@media(max-width: 992px){
+    .navbar .links,
+    .navbar {
+        display : none;
+    }
+    .navbar .toggle_btn{
+        display: block;
+    }
+} */
+
+
+

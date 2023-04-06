@@ -1,0 +1,13 @@
+/* navbar */
+.navbar-nav a{
+  font-size:18px;
+}
+
+.carousel-item img{
+  height: 550px;
+  width: 100%;
+}
+
+#contact-form{
+  width: 100%;
+}
